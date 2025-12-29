@@ -1,0 +1,41 @@
+.input-control {
+	width:100%;
+	padding:10px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+.btn {
+	padding:8px 15px;
+	background-color: #C70039;
+	color: #fff;
+	border:none;
+	cursor: pointer;
+}
+header {
+	background-color: #C70039;
+	color: #fff;
+}
+.container {
+	width: 80%;
+	margin:0 auto;
+}
+.container:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+.section {
+	padding:25px 0;
+}
+.box {
+	background-color: #fff;
+	border:1px solid #ccc;
+	padding:15px;
+	box-sizing: border-box;
+	margin:10px 0 25px 0;
+}
+.box:after {
+	content: '';
+	display: block;
+	clear: both;
+}
